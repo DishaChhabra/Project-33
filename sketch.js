@@ -90,7 +90,7 @@ function draw() {
    }
    
    
-   if(count>=5){
+   if(count>5){
      gameState = "end";
    }
    if(gameState === "end"){
